@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://github.com/monfra-admin/blockend-roadmap">
-    <img src="./Assets/blockchain.png" alt="Blockchain" width="128" height="128">
-  </a>
+  
+  <img src="./Assets/blockchain.png" alt="Blockchain" width="128" height="128">
+  
   <h2 align="center">Blockchain Developer Roadmap</h2>
   <p align="center">Roadmap to becoming a Blockchain Developer in 2024</p>
   <br>
